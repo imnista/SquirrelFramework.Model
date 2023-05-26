@@ -2,8 +2,8 @@
 {
     public abstract class Document
     {
-        public string Id { get; set; }
+        public string? Id { get; set; }
 
-        public Geolocation Geolocation { get; set; }
+        public Geolocation? Geolocation { get; set; }
     }
 }

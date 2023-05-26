@@ -14,10 +14,10 @@
 		<Authors>George Qi</Authors>
 		<Company>George Qi, nap7.com</Company>
 		<Description>Basic Model for Squirrel Framework</Description>
-		<Copyright>Copyright 2018-2023 Hendry, nap7.com</Copyright>
-		<PackageLicenseUrl>https://github.com/imnista/SquirrelFramework.Model/blob/main/LICENSE</PackageLicenseUrl>
+		<Copyright>Copyright 2018-2023 George, nap7.com</Copyright>
+		<License>Apache-2.0</License>
+		<Icon>http://s.nap7.com/nugetsquirrelframework.png</Icon>
 		<PackageProjectUrl>https://github.com/imnista/SquirrelFramework.Model</PackageProjectUrl>
-		<PackageIconUrl>http://s.nap7.com/nugetsquirrelframework.png</PackageIconUrl>
 		<RepositoryType>git</RepositoryType>
 		<RepositoryUrl>https://github.com/imnista/SquirrelFramework.Model</RepositoryUrl>
 		<PackageTags>entity model squirrel framework common</PackageTags>
