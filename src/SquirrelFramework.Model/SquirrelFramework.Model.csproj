@@ -6,10 +6,10 @@
 		<Nullable>enable</Nullable>
 		<AssemblyName>SquirrelFramework.Model</AssemblyName>
 		<RootNamespace>SquirrelFramework.Model</RootNamespace>
-		<VersionPrefix>2.0.2</VersionPrefix>
-		<Version>2.0.2</Version>
-		<AssemblyVersion>2.0.2</AssemblyVersion>
-		<FileVersion>2.0.2</FileVersion>
+		<VersionPrefix>2.0.3</VersionPrefix>
+		<Version>2.0.3</Version>
+		<AssemblyVersion>2.0.3</AssemblyVersion>
+		<FileVersion>2.0.3</FileVersion>
 		<VersionSuffix></VersionSuffix>
 		<Authors>George Qi</Authors>
 		<Company>George Qi, nap7.com</Company>
@@ -17,6 +17,7 @@
 		<Copyright>Copyright 2018-2023 George, nap7.com</Copyright>
 		<License>Apache-2.0</License>
 		<Icon>nugetsquirrelframework.png</Icon>
+		<IconUrl>http://s.nap7.com/nugetsquirrelframework.png</IconUrl>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 		<EmbedUntrackedSources>true</EmbedUntrackedSources>
 		<IncludeSymbols>true</IncludeSymbols>
