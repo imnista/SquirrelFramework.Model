@@ -1,8 +1,8 @@
-## [2.0.4](https://github.com/imnista/SquirrelFramework.Model/tree/2.0.4) - 2023-05-27
+## [2.0.5](https://github.com/imnista/SquirrelFramework.Model/tree/2.0.5) - 2023-05-27
 
-This is build 2.0.4 of `SquirrelFramework.Model`:
+This is build 2.0.5 of `SquirrelFramework.Model`:
 
-* [Changelog](https://github.com/imnista/SquirrelFramework.Model/blob/2.0.4/CHANGELOG.md)
+* [Changelog](https://github.com/imnista/SquirrelFramework.Model/blob/2.0.5/CHANGELOG.md)
 
 ### Change
 
