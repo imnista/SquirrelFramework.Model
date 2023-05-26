@@ -17,10 +17,15 @@
 		<Copyright>Copyright 2018-2023 George, nap7.com</Copyright>
 		<License>Apache-2.0</License>
 		<Icon>http://s.nap7.com/nugetsquirrelframework.png</Icon>
+		<PackageReadmeFile>README.md</PackageReadmeFile>
 		<PackageProjectUrl>https://github.com/imnista/SquirrelFramework.Model</PackageProjectUrl>
 		<RepositoryType>git</RepositoryType>
 		<RepositoryUrl>https://github.com/imnista/SquirrelFramework.Model</RepositoryUrl>
 		<PackageTags>entity model squirrel framework common</PackageTags>
 	</PropertyGroup>
 
+	<ItemGroup>
+		<None Include="..\..\README.md" Pack="true" PackagePath="\"/>
+	</ItemGroup>
+	
 </Project>
