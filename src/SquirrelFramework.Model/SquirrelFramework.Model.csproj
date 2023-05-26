@@ -16,7 +16,7 @@
 		<Description>Basic Model for Squirrel Framework</Description>
 		<Copyright>Copyright 2018-2023 George, nap7.com</Copyright>
 		<License>Apache-2.0</License>
-		<Icon>http://s.nap7.com/nugetsquirrelframework.png</Icon>
+		<Icon>nugetsquirrelframework.png</Icon>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 		<PackageProjectUrl>https://github.com/imnista/SquirrelFramework.Model</PackageProjectUrl>
 		<RepositoryType>git</RepositoryType>
@@ -26,6 +26,7 @@
 
 	<ItemGroup>
 		<None Include="..\..\README.md" Pack="true" PackagePath="\"/>
+		<None Include="..\..\nugetsquirrelframework.png" Pack="true" PackagePath="\"/>
 	</ItemGroup>
 	
 </Project>
